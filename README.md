@@ -93,7 +93,10 @@ bash
 
 ## 许可证
 
-本项目采用MIT许可证 - 详情请查看 [LICENSE](https://www.westlakechat.com/LICENSE) 文件。
+本项目采用MIT许可证
+
+## 项目地址
+https://github.com/Wugrant/MicrofluidicsToolsV1.0
 
 ## 联系方式
 
